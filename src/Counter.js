@@ -20,6 +20,7 @@ function Counter() {
   const onDecrease = () => {
     dispatch({ type: "DECREMENT" });
   };
+
   return (
     <div>
       <h1>{number}</h1>
