@@ -19,6 +19,7 @@
 
 // export default Hello;
 
+// ** 클래스형 컴포넌트
 import React, { Component } from "react";
 
 class Hello extends Component {
